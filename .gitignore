@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+output_plots/
+
+# Python environment
+pip-log.txt
+
+# IDE files
+.idea/
+
+# Local env
+.env
+
+# Ignore local data dumps
+module1_final_output.json
+simple_forecast.json
